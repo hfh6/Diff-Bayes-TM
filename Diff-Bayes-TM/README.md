@@ -1,4 +1,4 @@
-# A Method for Network Traffic Matrix Estimation Based on Diffusion Models and Sequential Monte Carlo Sampling
+# Network Traffic Matrix Estimation via Diffusion-Based Bayesian Inference
 
 <!-- ## Abstract -->
 
